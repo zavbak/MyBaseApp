@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyBaseApp</string>
+    <string name="screen_name_one">Screen 1</string>
+    <string name="screen_name_two">Screen 2</string>
+</resources>
